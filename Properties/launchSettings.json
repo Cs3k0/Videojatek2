@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Videojatek2": {
+      "commandName": "Project"
+    },
+    "Console": {
+      "commandName": "Project",
+      "commandLineArgs": "--stat"
+    }
+  }
+}
